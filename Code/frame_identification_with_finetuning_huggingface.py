@@ -80,9 +80,9 @@ def main():
     train_tokenized_dataset = train_dataset.map(tokenize_data, batched= True)
     test_tokenized_dataset = test_dataset.map(tokenize_data, batched= True)
     training_args = TrainingArguments(
-        f"frame_identifier_fine_tuned",
-        evaluation_strategy = "epoch",
-        save_strategy = "epoch",
+        args.mod,
+        evaluation_strategy="epoch",
+        save_strategy="epoch",
         learning_rate=2e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
@@ -99,12 +99,15 @@ def main():
     )
     # train a model with specified arguments
     trainer.train()
+    # if the model is to be trained from the latest checkpoint
+    # trainer.train(resume_from_checkpoint=args.mod)
     # to predict and return the class/label with the highest score
     pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer)
     # print the outputs on the evaluation dataset
     print('Training Done')
     predictions = pipe(test_dataset['text'])
-    model.save_pretrained(args.mod)
+    # the below can be uncommented if you want to save the most recent model
+    # model.save_pretrained(args.mod)
     actual_labels = []
     for prediction in predictions:
         pred_label = prediction['label']

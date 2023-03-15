@@ -17,7 +17,7 @@ def read_lines_from_file(file_path):
     Returns:
     lines: Lines read from file
     """
-    with open(filePath, 'r', encoding='utf-8') as fileRead:
+    with open(file_path, 'r', encoding='utf-8') as fileRead:
         lines = [line.strip() for line in fileRead.readlines() if line.strip()]
         return lines
 
@@ -70,6 +70,7 @@ def main():
     predicted = read_lines_from_file(args.p)
     all_labels = set(predicted).union(set(gold))
     all_labels = sorted(all_labels)
+    print(all_labels)
     dict_label_to_indices = {label: index for index,
                           label in enumerate(all_labels)}
     predicted_into_indexes = [dict_label_to_indices[item] for item in predicted]
@@ -92,3 +93,7 @@ def main():
         class_report += 'Micro_Accuracy = ' + str(accuracy_score(gold_into_indexes, predicted_into_indexes)) + '\n'
         print('Micro Accuracy =', accuracy_score(gold_into_indexes, predicted_into_indexes))
     write_data_to_file(class_report, args.o)
+
+
+if __name__ == '__main__':
+    main()
