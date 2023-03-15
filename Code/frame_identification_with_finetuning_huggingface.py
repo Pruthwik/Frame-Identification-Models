@@ -80,7 +80,8 @@ def main():
     train_tokenized_dataset = train_dataset.map(tokenize_data, batched= True)
     test_tokenized_dataset = test_dataset.map(tokenize_data, batched= True)
     training_args = TrainingArguments(
-        args.mod,
+        output_dir=args.mod,
+        overwrite_output_dir=True,
         evaluation_strategy="epoch",
         save_strategy="epoch",
         learning_rate=2e-5,
@@ -98,9 +99,11 @@ def main():
         tokenizer=tokenizer
     )
     # train a model with specified arguments
+    # train for the first time and use resume_from_checkpoint=True and overwrite_output_dir=True
     trainer.train()
     # if the model is to be trained from the latest checkpoint
-    # trainer.train(resume_from_checkpoint=args.mod)
+    # always put epochs > no_of_epochs when training for the 1st time
+    # trainer.train(resume_from_checkpoint=True)
     # to predict and return the class/label with the highest score
     pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer)
     # print the outputs on the evaluation dataset
