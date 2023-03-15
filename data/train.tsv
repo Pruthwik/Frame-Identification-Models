@@ -1,0 +1,1254 @@
+text	label
+John needs $2.50.	require
+He has $0.75.	possess
+How much more money does he need?	addition
+A swimmer is in a 100 meter race.	state_fact
+She swims the first half of the race in 32.34 seconds and the last half of the race in 34.83 seconds.	motion
+How long did it take her to swim the whole race?	transfer_goods_positive
+Jane buys an apple for $0.75 and pays with a $5.00 bill.	transfer_money
+How much change will she get?	getting
+John walks 0.7 miles to school and nina walks 0.4 miles to school.	motion
+How much farther does john walk than nina?	motion
+One pencil weighs 28.3 grams.	state_fact
+How much do 5 pencils weigh?	state_fact
+Tessa has 4 apples.	possess
+Anita gave her 5 more.	transfer_goods_negative
+She needs 10 apples to make a pie.	require
+Does she have enough to make a pie?	possess
+Julia played tag with 12 kids on monday.	state_fact
+She played tag with 7 kids on tuesday.	state_fact
+How many kids did she play with altogether?	total
+Molly had 14 candles on her birthday cake.	possess
+She grew older and got 6 more on her birthday cake.	create
+How old is molly now?	state_fact
+James ate 22 carrot sticks before dinner and 15 more after dinner.	use_resource
+How many carrot sticks did he eat?	use_resource
+Charles found 6 pennies on his way to school.	getting
+He also had 3 nickels already at home.	possess
+How much money does he now have in all?	possess
+Lucy went to the grocery store.	motion
+She bought 12 packs of cookies and 16 packs of noodles.	transfer_money
+How many packs of groceries did she buy in all?	aggregate
+Roden went to a pet shop.	motion
+He bought 15 gold fish and 7 blue fish.	transfer_money
+How many fish did he buy?	transfer_money
+I read 21 pages of my english book yesterday.	state_fact
+Today, i read 17 pages.	state_fact
+What is the total number of pages did i read?	state_fact
+In a school, there are 542 girls and 387 boys.	existence
+How many pupils are there in that school?	existence
+Linda has 34 candies.	possess
+Chloe has 28.	possess
+How many candies do they have in all?	possess
+Kate gave the clerk $1.00.	transfer_goods_negative
+Her candy cost 54 cents.	state_fact
+How much change should kate get back?	getting
+Mark has 13 trees in his backyard.	possess
+If he plants 12 more, how many trees will he have?	addition
+Joy will see her grandma in two days.	state_fact
+How many hours until she sees her?	state_fact
+Kim has 4 cousins.	possess
+She wants to give each one 5 pieces of gum.	transfer_goods_negative
+How much gum will she need?	require
+Dan has $3.00.	possess
+He bought a candy bar for $1.00.	transfer_money
+How much money is left?	existence
+5 boats are in the lake.	state_fact
+Each boat has 3 people.	duplication
+How many people are on boats in the lake?	state_fact
+Mrs. hilt measured her bookcase.	state_fact
+It was 48 inches long.	state_fact
+How many feet long was the bookcase?	state_fact
+Mrs. hilt bought a notebook for $1.30.	transfer_money
+She paid with nickels.	state_fact
+How many nickels did she use to buy the notebook?	use_resource
+Mrs. hilt saw a rollercoaster.	state_fact
+Seven students rode the rollercoaster every 5 minutes.	duplication
+How many students rode the rollercoaster in 15 minutes?	state_fact
+Mrs. hilt saw 144 bees in the hive.	state_fact
+The next day she saw 3 times that many.	duplication
+How many bees did she see on the second day?	state_fact
+Mrs. hilt measured the distance from her desk to the water fountain.	state_fact
+It was 30 feet.	state_fact
+How many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain four times today?	motion
+Jorge scored 156 goals playing soccer last season.	state_fact
+This season he scored 187 goals.	state_fact
+What is the total number of goals jorge scored?	state_fact
+Ceasar needs to read a 563 page book for school.	require
+He has already read 147 pages.	possess
+How many pages does he have left to read?	possess
+Wesley made 89 baskets on sunday.	state_fact
+He made 157 baskets on monday.	state_fact
+How many baskets did he make in all?	create
+Omar and karen made egg rolls to share at the school potluck.	use_resource
+Omar rolled 219 egg rolls.	state_fact
+Karen rolled 229 egg rolls.	state_fact
+What is the total number of egg rolls omar and karen rolled?	state_fact
+Meredith picked 347 apples.	choose
+Phil ate 198 of the apples.	use_resource
+How many apples are left?	existence
+Beka flew 873 miles to visit her aunt.	state_fact
+Jackson flew 563 miles to visit his aunt.	state_fact
+How many more miles did beka fly than jackson?	addition
+Darius drove 679 miles to visit his grandmother.	state_fact
+Julia drove 998 miles to visit her grandmother.	state_fact
+What is the total number of miles darius and julia drove?	state_fact
+Isabel bought 900 pieces of paper.	transfer_money
+She used 156 pieces of the paper.	use_resource
+How many pieces of paper does she have left?	possess
+Cindy had 41 pieces of candy.	possess
+She ate six pieces in the morning, and twelve more pieces in the afternoon.	use_resource
+How many pieces of candy does she have left?	possess
+Robert wants to practice goal kicks for soccer.	state_fact
+He decides to have 98 kicks before going home from the park.	possess
+He takes 43 kicks before taking a break to get a drink of water.	transfer_goods_positive
+He then takes another 36 kicks.	transfer_goods_positive
+How many more kicks does he need to make before he goes home?	addition
+Cindy has 105 stickers.	possess
+She uses 23 stickers.	use_resource
+She buys 45 more stickers.	transfer_money
+How many stickers does cindy have now?	possess
+Brian has 39 pencils.	possess
+He gives 18 pencils to a friend.	transfer_goods_negative
+He buys 22 more pencils.	transfer_money
+How many pencils does brian have now?	possess
+Karen has 252 markers.	possess
+Her mother gives her 34 more markers.	transfer_goods_negative
+Karen loses 11 markers.	use_resource
+How many markers does she have now?	possess
+Robin has 3 packages of gum.	possess
+There are 18 pieces in each package.	duplication
+How many pieces of gum does robin have?	possess
+21 people are going to the zoo.	state_fact
+There are 3 vans to take people to the zoo.	transfer_goods_positive
+How many will go in each van if the same number go in each van and all of the people go to the zoo?	motion
+I have 54 cents to buy candy.	possess
+If each piece of bulk candy costs 3 cents, how many gumdrops can i buy?	duplication
+Maggi had 3 packages of cupcakes.	possess
+There are 4 cupcakes in each package.	duplication
+She ate 5 cupcakes.	use_resource
+How many are left?	existence
+19 children take a minibus to the zoo.	transfer_goods_positive
+They are to sit 2 or 3 to a seat.	state_fact
+There are 7 seats.	existence
+How many seats will have 3 children seated on them?	possess
+At the gym, hillary swims every 6 days, runs every 4 days and cycles every 16 days.	motion
+If she did all three activities today, in how many days will she do all three activities again on the same day?	state_fact
+Oscar needs to ship 14 rock cds, 12 classical cds, and 8 pop cds.	require
+He can pack only one type of cd in each box and he must pack the same number of cds in each box.	duplication
+What is the greatest number of cds oscar can pack in each box?	duplication
+I want to plant 45 sunflower plants, 81 corn plants and 63 tomato plants in my garden.	addition
+If i put the same number of plants in each row and each row has only one type of plant, what is the greatest number of plants i can put in one row?	add_to_group
+Cups are sold 6 to a package and plates are sold 8 to a package.	transfer_money
+If you want to have the same number of each item for a party, what is the least number of packages of each you need to buy?	possess
+A full moon occurs every 30 days.	duplication
+If the last full moon occurred on a friday, how many days will pass before a full moon occurs again on a friday?	state_fact
+Mrs. hilt has 6 boxes of markers.	possess
+Each box has 19 markers in it.	duplication
+If she sold each marker for $0.75, how much money would mrs. hilt earn?	transfer_money
+Mrs. hilt learned that $1,348 worth of tickets were sold at the carnival.	transfer_money
+If tickets cost 4 for $1, how many tickets were sold?	state_fact
+Mrs. hilt had 4 pizzas.	possess
+Each pizza had 8 slices.	duplication
+If mrs. hilt ate 50% of the pizza slices, how many slices were left?	use_resource
+Mrs. hilt sold 120 pencils for $0.35 each.	transfer_money
+If half of the cost is profit, how much profit did she make on the pencils?	state_fact
+Mrs. hilt runs 3½ miles every monday, wednesday, and friday.	duplication
+How many miles will she run in a month in which there are 4 mondays, 4 wednesdays, and 4 fridays?	state_fact
+Mrs. sheridan has 17 cats.	possess
+Mr. sheridan gave her 14 more cats.	transfer_goods_negative
+How many cats does mrs. sheridan have altogether?	possess
+Mrs. sheridan has 22 fish.	possess
+Her sister gave her 47 more fish.	transfer_goods_negative
+How many fish does she have now?	possess
+Mrs. heine is buying valentine’s day treats for her 2 dogs.	state_fact
+If she wants to buy them 3 heart biscuits each, how many biscuits does she need to buy?	transfer_money
+Mrs. heine is buying valentine’s day treats for her 2 dogs.	state_fact
+If she wants to buy them 3 heart biscuits each and a sweater each, how many items does she need to buy?	transfer_money
+Mrs. heine is buying valentine’s day treats for her 2 dogs.	state_fact
+If she wants to buy them 5 heart biscuits each and a set of puppy boots each, how many items will she buy?	transfer_money
+Mrs. hilt bought an ice cream cone for 99 cents.	transfer_money
+How much would 2 ice cream cones cost?	state_fact
+Mrs. hilt wants to make a border around her garden.	create
+She needs 125 rocks to complete the border.	require
+She has 64 rocks.	possess
+How many more rocks does she need to complete the border?	addition
+Mrs. hilt had 38 marbles.	possess
+She lost 15 of them.	use_resource
+How many marbles does she have left?	possess
+Mrs. hilt and her sister drove to a concert 78 miles away.	state_fact
+They drove 32 miles and then stopped for gas.	state_fact
+Her sister put 28 gallons of gas in the car.	add_to_group
+How many miles did they have left to drive?	possess
+Mrs. hilt spent 1 hour and 30 minutes shoveling snow on saturday morning and 45 minutes shoveling snow on saturday afternoon.	transfer_money
+How much total time did she spend shoveling snow?	transfer_money
+There are 12 people in mrs. hilt’s living room.	existence
+6 people are wearing socks and 4 people are wearing shoes.	state_fact
+3 people are wearing both.	state_fact
+How many people are in bare feet?	state_fact
+Mrs. hilt read 21 books.	state_fact
+Each book had exactly 2,010 words in it.	duplication
+She sold five of her books for $4.95 each.	transfer_money
+How many words did mrs. hilt read?	state_fact
+Mrs. hilt has a pizza that is 35 inches in diameter.	possess
+What is the radius of that pizza?	state_fact
+Mrs. hilt has 6 pizzas.	possess
+Each pizza has 6 slices.	duplication
+She sold one-fourth (¼) of the pizza slices.	transfer_money
+How many slices were left?	existence
+Mrs. hilt's yard is 48 feet long and 39 feet wide.	state_fact
+What's the area of mrs. hilt's back yard?	state_fact
+You give 1/3 of a pan of brownies to susan and 1/6 of the pan of brownies to patrick.	transfer_goods_negative
+How much of the pan of brownies did you give away?	transfer_goods_negative
+You go out for a long walk.	motion
+You walk 3/4 mile and then sit down to take a rest.	motion
+Then you walk 3/8 of a mile.	motion
+How far did you walk altogether?	motion
+Pam walks 7/8 of a mile to school.	motion
+Paul walks 1/2 of a mile to school.	motion
+How much farther does pam walk than paul?	motion
+A school wants to make a new playground by cleaning up an abandoned lot that is shaped like a rectangle.	create
+They give the job of planning the playground to a group of students.	transfer_goods_negative
+The students decide to use 1/4 of the playground for a basketball court and 3/8 of the playground for a soccer field.	choose
+How much is left for the swings and play equipment?	existence
+Marty made two types of cookies.	state_fact
+He used 2/3 cup of sugar for one recipe and 1/4 cup of sugar for the other.	use_resource
+How much sugar did he use in all?	use_resource
+There are 365 days in one year.	existence
+How many days are in 12 years?	state_fact
+Lansing has 25 elementary schools.	possess
+There are 247 students in each school.	duplication
+How many elementary students are there altogether in lansing?	total
+256 students are going to the zoo.	state_fact
+They have to be divided into groups so that each teacher has one group.	possess
+There are 8 teachers.	existence
+How many students will be in each group?	duplication
+A fruit farm packs oranges in boxes that hold 10 each.	aggregate
+One day it packs 2650 oranges.	aggregate
+How many boxes did they use?	use_resource
+Julia has been collecting pennies since she was 3 years old.	possess
+She used a machine at the bank to count her pennies.	use_resource
+She had 4,380 pennies.	possess
+How many dimes would that be?	state_fact
+You want to give your baseball cards to your 5 best friends.	transfer_goods_negative
+You have 455 baseball cards.	possess
+How many would each get, if you share them equally?	duplication
+Finn has 89 goldfish.	possess
+32 of the goldfish die.	state_fact
+How many goldfish are left?	existence
+Jane has 28 old, brown sheets of drawing paper and 27 old, yellow sheets of drawing paper.	possess
+How many pieces of drawing paper does she have?	possess
+Mikey had 356 leaves.	possess
+Some of her leaves blew away.	state_fact
+Now she has 112 leaves left.	possess
+How many of her leaves blew away?	state_fact
+Marcus has 210 baseball cards.	possess
+He has 58 more than carter.	possess
+How many baseball cards does carter have?	possess
+Gavin has 23 shirts.	possess
+6 are blue the rest are green.	state_fact
+How many green shirts does gavin have?	possess
+Ethan has 31 presents.	possess
+Alissa has 22 more than ethan.	possess
+How many presents does alissa have?	possess
+There are 5 birds in a tree.	existence
+How many bird legs do you see?	state_fact
+What does two dimes and 3 pennies equal?	state_fact
+There are 3 spiders.	existence
+How many spider legs are there?	existence
+Karen wants to buy a pen that costs 75 cents.	transfer_money
+She has 2 quarters and 3 dimes.	possess
+Does she have enough money?	possess
+Jeff has twice as many crayons as joan.	possess
+Joan has 12 crayons.	possess
+How many does jeff have?	possess
+Tim had 50 cents.	possess
+He paid 45 cents for a candy bar.	state_fact
+How much change will he get?	getting
+It is 2:00.	state_fact
+What time will it be in three hours and forty-five minutes?	state_fact
+Mrs. hilt saw an ipod for sale.	state_fact
+The price tag said the ipod cost $128, but a sign announced that it was on sale for "35% off."	state_fact
+How much would the ipod cost after the discount?	state_fact
+Mrs. hilt wants to buy a television that regularly costs $600.	transfer_money
+If the sale price is 20% off the regular price, what was the sale price?	state_fact
+The recipe mrs. hilt is using calls for 2 1/3 cups of flour.	state_fact
+She only has a container that holds 1/3 of a cup.	possess
+How many times should she fill the container with flour?	duplication
+City a received 24 1/2 inches of snow, city b received 20 2/5 inches of snow, and city c received 17 3/10 inches of snow.	transfer_goods_positive
+The meteorologist lost the data for city d, however she knows the total for all 4 cities is 93 inches.	use_resource
+How much snow did city d receive?	transfer_goods_positive
+Mrs. hilt traveled 6, 760 miles to japan.	motion
+She read one book every 450 miles she traveled.	duplication
+How many books had she finished when she got to japan?	possess
+Mrs. hilt earns $3,000 a month.	state_fact
+Her rent is $660 each month, her monthly food bill is $350, and her insurance costs one-third of what she makes.	duplication
+How much money does she have left after paying those three bills?	possess
+Mrs. hilt had $4,000 in her savings account.	possess
+She earned 10% interest each year.	duplication
+If she left that money in the account for one year, how much will she have in the account at the end of that year?	existence
+Mrs. hilt baked 7 dozen cookies and sold them for $4.25 per half-dozen.	state_fact
+How much money would mrs. hilt make if she sold all of the cookies?	create
+Mrs. hilt bought 15 boxes of citrus fruits from a fundraiser.	transfer_money
+She paid $12 for each box.	duplication
+If 6% sales tax was added to the total cost, how much was her total bill?	add_to_group
+Mrs. hilt noticed two rides were 32 feet apart.	state_fact
+How many yards is that?	state_fact
+Mrs. hilt will buy a new pair of shoes in 11 days.	transfer_money
+How many minutes must she wait before she can buy her new pair of shoes?	transfer_money
+The hawks scored three touchdowns worth 7 points each.	duplication
+How many points do they have?	possess
+I have 28 cents in my pocket.	possess
+What coins could i have?	possess
+Zach scored 42 points in the football game.	state_fact
+Ben scored 21 points.	state_fact
+How many more points did zach score?	addition
+A game spinner has 5 equal parts.	possess
+Two parts are blue and three parts are purple.	state_fact
+Which color would you most likely spin?	state_fact
+I have 3 hundreds, 8 tens, and 3 ones.	possess
+What number am i?	state_fact
+Mrs. hilt traveled 21,120 feet.	motion
+How many miles did she travel?	motion
+Mrs. hilt collected 1,003 nickels in a jar.	gather
+She went to the bank to cash them in.	motion
+How much money did the bank give mrs. hilt?	transfer_goods_negative
+Mrs. hilt owns a house on a lot shaped like a rectangle.	possess
+The perimeter of the lot is 60 feet.	state_fact
+What is the length and the width of the lot?	state_fact
+Mrs. hilt bought 15 books.	transfer_money
+She paid $11 for each book.	duplication
+She later sold all 15 books for $25 each.	transfer_money
+What is the difference between the total amount of money mrs. hilt sold the books for and the total amount of money she paid for the books?	transfer_money
+Mrs. hilt earned $25 one week for shoveling snow and $50 for the next week.	state_fact
+Then, she gave 2/5 of her earnings to her little sister for helping her.	transfer_goods_negative
+How much money did she give to her little sister?	transfer_goods_negative
+Over the weekend, the philadelphia area received an approximate 26 7/10 inches of snowfall.	transfer_goods_positive
+If a province in canada received three times as much snowfall, how much would the accumulation in that province be?	transfer_goods_positive
+Adam has $5.00 to buy an airplane that costs $4.28.	possess
+How much change will he get?	getting
+If each ball costs $1.54, how much must kyoko pay for three balls?	duplication
+Tony had $20.	possess
+He paid $8 for a ticket to a baseball game.	state_fact
+At the game, he bought a hot dog for $3.	transfer_money
+What amount of money did tony have then?	possess
+Mr. guzman bought 48 doughnuts packed equally into 4 boxes.	transfer_money
+How many doughnuts were in each box?	duplication
+The sumata family took a five-day vacation by car.	transfer_goods_positive
+Each day they drove 250 miles.	duplication
+How many total miles did they drive?	state_fact
+One stamp costs 34¢.	state_fact
+Two stamps cost 68¢.	state_fact
+Three stamps cost $1.02.	state_fact
+If the cost of each stamp remains the same, how much would 4 stamps cost?	state_fact
+Josh had 16 marbles in his collection.	possess
+He lost 7 marbles.	use_resource
+How many marbles does he have now?	possess
+Megan has 19 seashells.	possess
+How many more seashells does she need to find to have 25 seashells in her collection?	addition
+Brad has 17 balloons.	possess
+8 balloons are red and the rest are green.	state_fact
+How many green balloons does brad have?	possess
+There are 38 books on the shelf.	existence
+Marta put 10 more books on the shelf.	add_to_group
+How many books are on the shelf now?	state_fact
+A bee has 6 legs.	possess
+How many legs do 8 bees have?	possess
+Tyler had 15 dogs.	possess
+Each dog had five puppies.	duplication
+How many puppies does tyler now have?	possess
+The farmer had 127 apples.	possess
+He gave 88 apples to his neighbor.	transfer_goods_negative
+How many apples does he have now?	possess
+John can read 4 books a day.	state_fact
+He reads every monday and tuesday.	duplication
+How many books would he read in 6 weeks?	state_fact
+Jill invited 37 people to her birthday party.	state_fact
+They each ate 8 pieces of pizza.	duplication
+How many pieces of pizza did they eat?	use_resource
+The spurs basketball team has 22 players.	possess
+Each player has eleven basketballs.	duplication
+How many basketballs do they have in all?	possess
+The town of milburg has 5,256 grown-ups and 2,987 children.	possess
+How many people live in milburg?	contain
+Lisa rented 4 dvds for $4.80.	state_fact
+How much did each dvd cost to rent?	duplication
+There were 3,409 pieces of candy in a jar.	existence
+If 145 pieces were red and the rest were blue, how many were blue?	state_fact
+On friday, 1,250 people visited the zoo.	state_fact
+Three times as many people visited on saturday than on friday.	duplication
+How many people visited the zoo on saturday?	state_fact
+Third-grade students went to a concert in 8 buses.	motion
+Each bus took 45 students.	duplication
+How many students went to the concert?	motion
+There are 124 students making 3 stars each for the school wall.	duplication
+How many stars will they make all together?	create
+Marcia spent 300 minutes working on her science project.	transfer_money
+How many hours did she spend on her science project?	transfer_money
+In one week, an airplane pilot flew 1,134 miles on tuesday and 1,475 miles on thursday.	state_fact
+If the pilot flies the same number of miles 3 weeks in a row, how many miles does he fly in all?	motion
+Six students were sitting at each table in the lunchroom.	duplication
+There are 34 tables.	existence
+How many students were sitting in the lunchroom?	state_fact
+Connie has 41 red markers and 64 blue markers.	possess
+How many markers does she have altogether?	possess
+Iesha has 58 books.	possess
+19 are about school and the rest are about sports.	state_fact
+How many books about sports does iesha have?	possess
+James has 232 balloons.	possess
+Amy has 101 balloons.	possess
+How many more balloons does james have than amy?	addition
+Sean has 45 whistles.	possess
+He has 32 more whistles that charles.	possess
+How many whistles does charles have?	possess
+Connie has 39 marbles.	possess
+Juan has 25 more marbles than connie.	possess
+How many marbles does juan have?	possess
+Karen has 639 crayons.	possess
+Cindy has 504 crayons.	possess
+How many more crayons does karen have than cindy?	addition
+Jose has 85 peanuts.	possess
+Kenya has 48 more than jose.	possess
+How many peanuts does kenya have?	possess
+Lizette has 813 stamps.	possess
+She has 125 more stamps than minerva.	possess
+How many stamps does minerva have?	possess
+White t-shirts can be purchased in packages of 6.	state_fact
+If mom buys 71 packages, how many white t-shirts will she have?	transfer_money
+I have 648 pencils.	possess
+If i put 4 pencils in each pencil box, how many pencil boxes will i fill?	add_to_group
+Uncle dave bought 143 ice cream sandwiches.	transfer_money
+If he wants to give them to his 11 hungry nieces, how many can each niece get?	transfer_goods_negative
+Iesha has 344 books.	possess
+136 are about school and the rest are about sports.	state_fact
+How many books about sports does iesha have?	possess
+James has 1222 balloons.	possess
+Amy has 513 balloons.	possess
+How many more balloons does james have than amy?	addition
+Sean has 223 whistles.	possess
+He has 95 more whistles that charles.	possess
+How many whistles does charles have?	possess
+Connie has 323 marbles.	possess
+Juan has 175 more marbles than connie.	possess
+How many marbles does juan have?	possess
+Robin has 27 packages of gum.	possess
+There are 18 pieces in each package.	duplication
+How many pieces of gum does robin have?	possess
+Mrs. hilt bought a hot dog for $1.75 and a bag of chips for 75 cents.	transfer_money
+Her sister bought 2 hot dogs and 2 bags of chips.	transfer_money
+How much more money did mrs. hilt's sister spend?	addition
+Hilt read that north america covered an area of 9,365,290 square miles and europe covered 3,837,082 square miles.	state_fact
+How much bigger is north america than europe?	state_fact
+Mrs. hilt looked at her car's odometer before a trip.	state_fact
+The odometer showed that she had traveled 212.3 miles.	possess
+When she stopped for lunch, the odometer read 372.0.	state_fact
+How many miles had she traveled?	possess
+Mrs. hilt impressed 2,436 fans at the basketball game on friday.	state_fact
+If the fans were seated in equal groups on 3 sets of bleachers, how many fans were on each set?	duplication
+Mrs. hilt ate 1/5 of one pepperoni pizza and 3/5 of a same-sized mushroom pizza.	use_resource
+How much total did she eat?	use_resource
+Mrs. hilt needs to be at work by 9:00 am.	require
+It takes her 10 minutes to shovel her car out of the snow, 25 minutes to prepare for the day, and 35 minutes to drive to work.	transfer_goods_positive
+What time should she wake up so she can get to work on time?	getting
+A chocolate chip cookie recipe calls for 2 cups of chocolate chips.	state_fact
+You want to make 23 recipes for a bake sale.	create
+How many cups of chocolate chips will be needed to make all the cookie recipes?	require
+I have a pet golden retriever.	possess
+Each year he gains 11 pounds.	duplication
+He is 8 years old.	state_fact
+How many pounds does he weigh?	state_fact
+John can run one block in 30 seconds.	state_fact
+How far can he run in 5 minutes?	state_fact
+A cheetah can run 12 feet in 1 second.	state_fact
+How far can he run in 1 minute?	state_fact
+Mary’s car gets 20 miles per gallon of gas.	getting
+How far can she drive on 14 gallons of gas?	state_fact
+I walked 2 miles in 1 hour for relay for life.	motion
+If i maintained this pace for the 8 hours i walk, how many miles total will i walk?	motion
+I walk 1 mile every 15 minutes.	motion
+I walked 3 miles.	motion
+How many minutes did it take me to walk 3 miles?	transfer_goods_positive
+There are 43 dogs, 72 fish, and 34 cats at my farm.	existence
+How many pets do i have at my farm?	possess
+Dane eats lunch at 12:30.	use_resource
+It takes him 20 minutes to eat.	transfer_goods_positive
+What time does dane finish eating?	state_fact
+Kyle has four dimes, one nickel, and one quarter.	possess
+Does he have enough to buy a book that costs $1.00?	possess
+Charlie has 31 more snowballs than lucy.	possess
+She has 19 snowballs.	possess
+How many does charlie have?	possess
+Josh had $1.80.	possess
+He paid 45 cents for a candy car.	state_fact
+How much change will he get?	getting
+I have 9 pennies, 4 nickels, and 3 dimes.	possess
+How much money do i have?	possess
+The wolves, though accustomed to cold weather, also wanted to move away from the incoming winter.	motion
+There are 43 packs of wolves living in the forest and 31 packs went away.	aggregate
+How many wolf packs were left in the forest ?	aggregate
+Upon finishing the treehouse, charlie’s mother served them freshly baked cookies.	use_resource
+Charlie ate 15 cookies, his father ate 10 and his mother only ate 5. how many cookies were eaten in total ?	use_resource
+At the river, 25 out of 55 salmon families went to warmer waters to avoid being frozen.	motion
+How many salmon families were left in the river ?	existence
+Even the chipmunks are trying to get away to find other warmer places to stay.	getting
+If 21 chipmunk families were left from the original 86 families	existence
+How many chipmunk families went away ?	motion
+There are 67 bird families living near the mountain.	existence
+If 32 bird families flew away for winter	state_fact
+How many chipmunk families went away ?	motion
+You have 24 cookies	possess
+You want to share them equally with 6 people.	use_resource
+How many cookies would each person get?	duplication
+You are reading a book with 120 pages.	state_fact
+If you want to read the same number of pages each night, how many would you have to read each night to finish in 10 days?	duplication
+A cereal box holds 18 cups of cereal.	contain
+Each serving is 2 cups.	duplication
+How many servings are in the whole box?	total
+A box of books weighs 42 pounds.	state_fact
+Each book weighs 3 pounds.	duplication
+How many books are there in the box?	existence
+Sue’s mother made 75 cookies.	state_fact
+She put the cookies in bags, with 3 cookies in each bag.	add_to_group
+How many bags could she fill up?	state_fact
+An airplane hangar is 300 feet long.	state_fact
+How many planes can fit into it, end to end, if each plane is 40 feet long?	duplication
+It takes 3 eggs to make a cake.	transfer_goods_positive
+How many cakes can you make with 37 eggs?	create
+105 people are going to a movie.	state_fact
+6 people can ride in each car.	motion
+How many cars are needed to get all 105 people to the movie?	require
+Ms. baker has 17 cupcakes.	possess
+She wants to share them equally among her 3 children so that no one gets more than anyone else.	use_resource
+She gives each child as many cupcakes as possible.	transfer_goods_negative
+How many cupcakes will be left over for ms. baker to eat?	existence
+89 cookies are being shared equally among 4 people.	state_fact
+How many does each person get?	duplication
+A chocolate chip cookie recipe calls for 2 cups of chocolate chips.	state_fact
+You want to make 23 recipes for a bake sale.	create
+How many cups of chocolate chips will be needed to make all the cookie recipes?	require
+I have a pet golden retriever.	possess
+Each year he gains 11 pounds.	duplication
+He is 8 years old.	state_fact
+How many pounds does he weigh?	state_fact
+John can run one block in 30 seconds.	state_fact
+How far can he run in 5 minutes?	state_fact
+A cheetah can run 12 feet in 1 second.	state_fact
+How far can he run in 1 minute?	state_fact
+Mary’s car gets 20 miles per gallon of gas.	getting
+How far can she drive on 14 gallons of gas?	state_fact
+I walked 2 miles in 1 hour for relay for life.	motion
+I maintained this pace for the 8 hours i walk.	motion
+How many miles total will i walk?	motion
+I walk 1 mile every 15 minutes.	motion
+I walked 3 miles.	motion
+How many minutes it took me to walk 3 miles?	transfer_goods_positive
+There are 365 days in one year.	existence
+How many days are there in 12 years?	existence
+Lansing has 25 elementary schools.	possess
+There are 247 students in each school.	duplication
+How many elementary students are there altogether in lansing?	total
+A company donates 935 pencils to a school.	state_fact
+The pencils are divided evenly among 9 classrooms.	separate_entities
+The rest of the pencils are given to the library.	state_fact
+How many pencils were donated to the school and to the library?	state_fact
+Manny owns 83 sets of basketball cards.	possess
+Each set has exactly 504 cards.	duplication
+What is the total number of basketball cards manny owns?	possess
+The city park is 9 2/5 miles from roland elementary school.	state_fact
+The city library is 3 3/10 miles from the same school.	state_fact
+How much farther from the school is the park than the library?	state_fact
+Ginny paid $4.16 for a sandwich.	state_fact
+She paid $0.95 for a piece of fruit.	state_fact
+What is the total amount ginny paid for the sandwich and fruit?	state_fact
+Randa ate 3/8 of a pizza, and marvin ate 1/4 of the same pizza.	use_resource
+What fraction of the pizza did randa and marvin eat?	use_resource
+Megan had 217 markers.	possess
+Robert gave her 109 more markers.	transfer_goods_negative
+How many markers does megan have altogether?	possess
+A dvd book holds 126 dvds.	contain
+There are 81 dvds already in the book.	existence
+How many more dvds can be put in the book?	addition
+Carla has some marbles.	possess
+She bought 489 marbles.	transfer_money
+Now she has 2778 marbles all together.	possess
+How many did she start with?	possess
+Paco had 93 cookies.	possess
+He ate 15 of them.	use_resource
+How many cookies did paco have left?	possess
+Kelly has 121 nintendo games.	possess
+How many does she need to give away so that she will have 22 games left?	require
+Connie had some marbles.	possess
+She gave 183 to juan.	transfer_goods_negative
+Now she has 593 marbles left.	possess
+How many did she have to start with?	possess
+Connie has 2315 red markers and 1028 blue markers.	possess
+How many markers does she have altogether?	possess
+Misha has 34 dollars.	possess
+How many more dollars does she have to earn to have 47 dollars?	addition
+There were 28 girls and 35 boys on the playground at recess.	existence
+How many children were there in all?	existence
+There were 51 geese in the farmer’s field.	existence
+28 of the geese flew away.	state_fact
+How many geese were left?	existence
+The elephant had 407 peanuts.	possess
+She ate 129 of them.	use_resource
+How many peanuts did the elephant have left?	possess
+There were 44 boys and 53 girls on the playground at recess.	existence
+How many children were on the playground in all?	state_fact
+There were 58 geese and 37 ducks in the marsh.	existence
+How many birds were there in all?	existence
+Paul had 42 strawberries in his basket.	possess
+He picked 78 more strawberries.	choose
+How many strawberries did he have then?	possess
+Cindy had 41 pieces of candy.	possess
+She ate six pieces in the morning, and twelve more pieces in the afternoon.	use_resource
+How many pieces of candy does she have left?	possess
+Robert wants to practice goal kicks for soccer.	state_fact
+He decides to have 98 kicks before going home from the park.	possess
+He takes 43 kicks before taking a break to get a drink of water.	transfer_goods_positive
+He then takes another 36 kicks.	transfer_goods_positive
+How many more kicks does he need to make before he goes home?	addition
+Cindy has 105 stickers.	possess
+She uses 23 stickers.	use_resource
+She buys 45 more stickers.	transfer_money
+How many stickers does cindy have now?	possess
+Brian has 39 pencils.	possess
+He gives 18 pencils to a friend.	transfer_goods_negative
+He buys 22 more pencils.	transfer_money
+How many pencils does brian have now?	possess
+Karen has 252 markers.	possess
+Her mother gives her 34 more markers.	transfer_goods_negative
+Karen loses 11 markers.	use_resource
+How many markers does she have now?	possess
+Robin had 18 pieces of gum.	possess
+Her brother gave her some more pieces.	transfer_goods_negative
+Now robin has 44 pieces in all.	possess
+How many pieces of gum did robin's brother give her?	transfer_goods_negative
+Bobby has 142 books.	possess
+Kristi has 78 books.	possess
+How many more books does bobby have than kristi?	addition
+Tommy had some balloons.	possess
+His mom gave him 34 more balloons for his birthday.	transfer_goods_negative
+Then, tommy had 60 balloons.	possess
+How many balloons did tommy have to start with?	possess
+Alex had some candles for his jack o‘ lanterns.	possess
+He used 32 of them.	use_resource
+Now he has 12 left.	possess
+How many candles did alex have to start with?	possess
+There were 14 kids on the soccer field.	existence
+22 kids decided to join in.	state_fact
+Now how many kids are on the soccer field?	state_fact
+Suppose you want to buy three loaves of bread that cost $1.50 each and a jar of peanut butter that costs $4.	transfer_money
+A jar of jelly is $2.75, but you don’t need any jelly.	require
+You have $10.	possess
+How much money will you have left over?	possess
+The star running back on our football team got most of his total yardage running.	getting
+The rest was catching passes.	state_fact
+He caught passes for 60 yards.	state_fact
+His total yardage was 150 yards.	state_fact
+The running back for the other team got 200 yards.	getting
+How many yards did the star running back on our football team get running?	getting
+The average temperature in lincoln in july is 85 degrees.	state_fact
+Last wednesday, it was 90 degrees.	state_fact
+Today it was 15 degrees cooler than last wednesday.	state_fact
+What was the temperature today?	state_fact
+Julie’s yard is rectangular.	state_fact
+One side of the yard is 100 feet wide.	state_fact
+The total area of the yard is 3,000 square feet.	state_fact
+What is the length of the other side of the yard?	state_fact
+Joanna has 3 more books in her backpack than sophie.	possess
+If sophie has n books, how many does joanna have?	possess
+Martin has a business washing cars.	possess
+Last year he washed 20 cars a week.	state_fact
+This year, he wants to increase his business to 1,200 cars a year.	state_fact
+How many cars will he have to wash each month on average?	possess
+Michelle has $80 to buy a new outfit.	possess
+She found a skirt for $20, a blouse for $25, and a belt for $8.	getting
+How much does she have left to buy shoes?	possess
+In track last week, the boys ran sixteen laps.	state_fact
+The girls ran four more laps.	addition
+Each lap is a quarter of a mile.	duplication
+How many miles did the girls run?	state_fact
+Mrs. hilt has 40 markers.	possess
+They are divided equally into 7 packages.	separate_entities
+Mrs. hilt wants to know how many markers are in each package, and how many markers are leftover?	duplication
+Mrs. hilt read 4 books.	state_fact
+Each book had 17 chapters in it.	duplication
+How many chapters did mrs. hilt read?	state_fact
+Which rug should mrs. hilt buy if she wants the rug with the biggest area?	transfer_money
+Mrs. hilt has a picture frame that is 12 inches high and 10 inches long.	possess
+What is the perimeter of that picture frame?	state_fact
+Mrs. hilt is baking bread.	state_fact
+She needs 5 cups of flour to bake two loaves of bread.	require
+How much flour will she need to make one loaf of bread?	require
+Ellen had 380 legos, but she lost 57 of them.	possess
+How many legos does she have now?	possess
+Arthur baked 35 muffins.	state_fact
+How many more muffins does arthur have to bake to have 83 muffins?	addition
+Willy has 1400 crayons.	possess
+Lucy has 290 crayons.	possess
+How many more crayons does willy have than lucy?	addition
+There are 10 stickers on a page.	existence
+If you have 22 pages of stickers, how many stickers do you have?	possess
+There are 96 cupcakes for 8 children to share.	use_resource
+How much will each person get if they share the cupcakes equally?	duplication
+Mrs. hilt bought a one-year swimming pool pass for $390.	transfer_money
+If she makes one payment per month for one year, how much is each payment?	duplication
+Mrs. hilt read 37 books every month.	duplication
+How many books did she read from september 2007 to january 2009?	state_fact
+Mrs. hilt met with 120 fourth-graders.	state_fact
+If three-quarters of those students were girls, how many boys were at the meeting?	state_fact
+Mrs. hilt bought four strings of holiday garland that were 12 feet long.	transfer_money
+She needs 45 feet of garland to string on her post.	require
+Does she have enough garland?	possess
+Mrs. hilt had a $20.00 bill.	possess
+If pens cost 10 cents each, how many pens could mrs. hilt buy with her money?	state_fact
+On the first day of the week pat had 39 stickers.	possess
+Pat earned 22 more during the week.	addition
+How many stickers did pat have at the end of the week?	possess
+Kelly had 56 apples.	possess
+How many more apples does kelly need to pick to have 105 apples altogether?	addition
+Todd has some gum.	possess
+Steve gave him 16 more pieces of gum.	transfer_goods_negative
+Now todd has 54 pieces of gum.	possess
+How many pieces did todd have to start with?	possess
+Josh had 142 pencils.	possess
+He gave 31 pencils to dorothy.	transfer_goods_negative
+How many pencils does josh have left?	possess
+Nell collects baseball cards.	gather
+She had 304 cards.	possess
+She gave some of her cards to jeff and now has 276 cards left.	transfer_goods_negative
+How many cards did nell give to jeff?	transfer_goods_negative
+Sarah had some trucks.	possess
+She gave 13 to jeff, and now she has 38 trucks left.	transfer_goods_negative
+How many trucks did sarah have to start with?	possess
+There are 40 boys and some girls on the playground.	existence
+There are 117 children altogether.	total
+How many girls are on the playground?	state_fact
+256 students are going to the zoo.	state_fact
+They have to be divided into groups so that each teacher has one group.	possess
+There are 8 teachers.	existence
+How many students will be in each group?	duplication
+A fruit farm packs oranges in boxes that hold 10 each.	aggregate
+One day it packs 2650 oranges.	aggregate
+How many boxes did they use?	use_resource
+Julia has been collecting pennies since she was 3 years old.	possess
+She used a machine at the bank to count her pennies.	use_resource
+She had 4,380 pennies.	possess
+How many dimes would that be?	state_fact
+You want to give your baseball cards to your 5 best friends.	transfer_goods_negative
+You have 455 baseball cards.	possess
+How many would each get, if you share them equally?	duplication
+Ellen had 2,080 legos, but she lost 17 legos.	possess
+How many legos does she have now?	possess
+Arthur baked 115 muffins.	state_fact
+James baked 12 times as many.	state_fact
+How many muffins did james bake?	state_fact
+There are 14,240 books in a library.	existence
+They are arranged on shelves that hold 8 books each.	contain
+How many shelves are in the library?	state_fact
+Willy has 1,850 crayons.	possess
+Lucy has 739 crayons.	possess
+How many more crayons does willy have than lucy?	addition
+Brad has 10,000 balloons.	possess
+626 of them are red and the rest are green.	state_fact
+How many green balloons does brad have?	possess
+Robin has 3 packages of gum.	possess
+There are 18 pieces in each package.	duplication
+How many pieces of gum does robin have?	possess
+21 people are going to the zoo.	state_fact
+There are 3 vans to take people to the zoo.	transfer_goods_positive
+How many will go in each van if the same number go in each van and all of the people go to the zoo?	motion
+I have 54 cents to buy candy.	possess
+If each piece of bulk candy costs 3 cents,	duplication
+How many gumdrops can i buy?	transfer_money
+Maggi had 3 packages of cupcakes.	possess
+There are 4 cupcakes in each package.	duplication
+She ate 5 cupcakes.	use_resource
+How many are left?	existence
+19 children take a minibus to the zoo.	transfer_goods_positive
+They are to sit 2 or 3 to a seat.	state_fact
+There are 7 seats.	existence
+How many seats will have 3 children seated on them?	possess
+Jorge scored 156 goals playing soccer last season.	state_fact
+This season he scored 187 goals.	state_fact
+What is the total number of goals jorge scored?	state_fact
+Ceasar needs to read a 563 page book for school.	require
+He has already read 147 pages.	possess
+How many pages does he have left to read?	possess
+Wesley made 89 baskets on sunday.	state_fact
+He made 157 baskets on monday.	state_fact
+How many baskets did he make in all?	create
+Omar and karen made egg rolls to share at the school potluck.	use_resource
+Omar rolled 219 egg rolls.	state_fact
+Karen rolled 229 egg rolls.	state_fact
+What is the total number of egg rolls omar and karen rolled?	state_fact
+Meredith picked 347 apples.	choose
+Phil ate 198 of the apples.	use_resource
+How many apples are left?	existence
+Beka flew 873 miles to visit her aunt.	state_fact
+Jackson flew 563 miles to visit his aunt.	state_fact
+How many more miles did beka fly than jackson?	addition
+Darius drove 679 miles to visit his grandmother.	state_fact
+Julia drove 998 miles to visit her grandmother.	state_fact
+What is the total number of miles darius and julia drove?	state_fact
+Isabel bought 900 pieces of paper.	transfer_money
+She used 156 pieces of the paper.	use_resource
+How many pieces of paper does she have left?	possess
+Mrs. hilt bought a one-year swimming pool pass for $390.	transfer_money
+If she makes one payment per month for one year,	state_fact
+How much is each payment?	duplication
+Mrs. hilt read 37 books every month.	duplication
+How many books did she read from september 2007 to january 2009?	state_fact
+You had $1 million, but then you spent $999 and then $22,222.	possess
+How much money do you have left?	possess
+Emmy noether, the mother of modern algebra, was born in 1882.	state_fact
+In what year did she celebrate her 25th birthday?	state_fact
+I am ordering three books online.	state_fact
+The first book costs $21.95, the second book costs $4.95, and the third book costs $5.95.	state_fact
+Postage and handling cost $3.50 no matter how many books i order.	state_fact
+Since i don’t have to pay sales tax, how much will my total cost be?	possess
+Many families serve each person in the family one 6-ounce glass of orange juice each morning.	use_resource
+If they buy orange juice by the gallon, how many whole servings of juice will they get out of one gallon of juice?	transfer_money
+You have $12 in nickels and quarters.	possess
+If you have the same number of each kind of coin, how many nickels do you have?	possess
+Mrs. hilt would like you to find the perimeter of a regular octagon whose sides measure 3 ft each.	getting
+Mrs. hilt would like you to find the perimeter of a regular octagon whose sides measure 3 ft each.	getting
+2.	state_fact
+Mrs. hilt uses 2 ounces of detergent to wash a pound of clothes.	use_resource
+How many ounces of soap will she use to wash 9 pounds of clothes?	use_resource
+Mrs. hilt went to a concert.	motion
+A total of 65,899 people attended the concert.	state_fact
+The next week, she went to a second concert, which had 119 more people in attendance.	motion
+How many people were at the second concert?	state_fact
+Mrs. hilt baked pies last weekend for a holiday dinner.	state_fact
+She baked 16 pecan pies and 14 apples pies.	state_fact
+If she wants to arrange all of the pies in rows of 5 pies each, how many rows will she have?	duplication
+Mrs. hilt needs to share $3.75 equally among three total people.	require
+How much money will each person get?	duplication
+Mrs. hilt spent 74 cents at the school store.	transfer_money
+She bought a notebook for 35 cents, a ruler for 18 cents, and 3 pencils.	transfer_money
+What is the cost of one pencil?	state_fact
+Frank worked 8 hours on the first four days of the week.	state_fact
+How many hours did he work in these four days?	state_fact
+Sue’s family went on vacation.	motion
+Her mom drove the car at 60 mph.	state_fact
+They camped at a campground after traveling for 5 hours.	state_fact
+How far was the campground from their home?	state_fact
+Brett drove 55 miles every hour.	duplication
+How many miles would he drive in 8 hours?	state_fact
+A perfect score is 21 points.	getting
+How many points would you have after three perfect games in a row?	possess
+Brian’s car gets 20 miles per gallon.	getting
+On his last trip, he used 3 gallons of gas.	use_resource
+How many miles did he travel on his last trip?	motion
+Bob’s car gets 10 kilometers per gallon.	getting
+How far can he drive on 10 gallons of gas?	state_fact
+Each cup contains 8 ounces.	duplication
+How many ounces are in 33 cups?	state_fact
+Deborah is running a marathon.	state_fact
+She can run 4 miles in an hour.	state_fact
+How long will it take her to run 26 miles?	transfer_goods_positive
+Mrs. hilt had 43 cents.	possess
+She bought a pencil for 20 cents and a piece of candy for 5 cents.	transfer_money
+How much money did she have left?	possess
+On tuesday, mrs. hilt saw 88 raisins on a tray in the cafeteria.	state_fact
+That was 8 more raisins than she saw the day before.	addition
+How many raisins were on the table on monday?	state_fact
+Mrs. hilt bought carnival tickets.	transfer_money
+The tickets cost $1 for 4 tickets.	state_fact
+If mrs. hilt bought 12 tickets, how much did she pay?	transfer_money
+Mrs. hilt bought 3 pizzas for $8 each.	transfer_money
+What was the total amount she paid for the three pizzas?	state_fact
+Mrs. hilt saw 21 snakes, 11 alligators, 36 frogs, and 57 bears.	state_fact
+How many reptiles did mrs. hilt see?	state_fact
+Susie used 0.75 cup of sugar in a batch of brownies.	use_resource
+What fraction of a cup did she use?	use_resource
+In mr. brown’s class 2/4 of the students like chocolate ice cream.	state_fact
+What percent of the students like chocolate ice cream?	state_fact
+Vicky gave away 4/5 of her beanie baby collection.	transfer_goods_negative
+What percent of her collection did she give away?	transfer_goods_negative
+Andrew spent three day working on his science report.	transfer_money
+He worked for 2.5 hours each day.	duplication
+How many hours did he work?	state_fact
+A driving class begins at 9:15 a.m.	state_fact
+It lasts for 4 hours and 30 minutes.	state_fact
+At what time will the class end?	state_fact
+Joe had fifty toy cars.	possess
+If he gets twelve more cars, how many cars will he have then?	getting
+Maria had twenty-five pieces of gum.	possess
+Tommy gave her sixteen more pieces.	transfer_goods_negative
+Luis gave her twenty more pieces.	transfer_goods_negative
+How many pieces of gum does maria have now?	possess
+There are sixty-four pigs in the barn.	existence
+Some more come to join them.	addition
+Now there are eighty-six pigs.	existence
+How many pigs came to join them?	state_fact
+Rosa had sixty-seven flowers.	possess
+Andre gave her some more flowers.	transfer_goods_negative
+Now, rosa has ninety flowers.	possess
+How many flowers did andre give to rosa?	transfer_goods_negative
+Adolfo made a tower with thirty-five blocks.	state_fact
+He added some more blocks and now he has sixty-five blocks.	add_to_group
+How many did he have to add?	possess
+Lucy put sixty-eight shells in her bucket.	add_to_group
+She found some more shells and now she has eighty-nine shells.	getting
+How many more did she find?	addition
+Hugo had seventy-nine stickers in his sticker book.	possess
+He got some more to add to his book and now he has one hundred-twenty stickers.	getting
+How many did he add to his book?	add_to_group
+Ellen had 2,080 legos, but she lost 17 legos.	possess
+How many legos does she have now?	possess
+Arthur baked 115 muffins.	state_fact
+James baked 12 times as many.	state_fact
+How many muffins did james bake?	state_fact
+There are 14,240 books in a library.	existence
+They are arranged on shelves that hold 8 books each.	contain
+How many shelves are in the library?	state_fact
+Willy has 1,850 crayons.	possess
+Lucy has 739 crayons.	possess
+How many more crayons does willy have than lucy?	addition
+Brad has 10,000 balloons.	possess
+626 of them are red and the rest are green.	state_fact
+How many green balloons does brad have?	possess
+You have 2/4 of a pizza and you want to share it equally between 2 people.	possess
+How much of the pizza does each person get?	duplication
+A baker is making cakes for a big party.	state_fact
+She uses 1/4 cup of oil for each cake.	use_resource
+How many cakes can she make if she has a bottle of oil that has 6 cups in it?	create
+The serving size for the granola that ted likes to eat for breakfast is 3/4 cup.	use_resource
+How many servings are there in a box that holds 13 cups?	contain
+How many 1/2 cup servings are in a package of cheese that contains 5 1/4 cups altogether?	aggregate
+Mrs. murphy's class is making pillow cases.	state_fact
+Each pillow case uses 3/4 of a yard of fabric.	duplication
+How many pillow cases can they make out of 12 1/2 yards of fabric?	create
+A book shelf is 3 1/2 feet long.	state_fact
+Each book on the shelf is 5/8 inches wide.	duplication
+How many books will fit on the shelf?	state_fact
+A cake recipe requires 1 2/3 cup of sugar for the frosting and 2/3 cup of sugar for the cake.	require
+How much sugar is that altogether?	total
+1/10 of the m&m’s in a bag are red and 3/10 are blue.	state_fact
+What fraction of all the m&m’s are red and blue?	state_fact
+You give 2/7 of a pan of brownies to susan and 1/7 of the pan of brownies to patrick.	transfer_goods_negative
+How much of the pan of brownies did you give away?	transfer_goods_negative
+You go out for a long walk.	motion
+You walk 3/4 mile and then sit down to take a rest.	motion
+Then you walk 1/4 of a mile.	motion
+How far did you walk altogether?	motion
+Pam walks 7/8 of a mile to school.	motion
+Paul walks 3/8 of a mile to school.	motion
+How much farther does pam walk than paul?	motion
+A school wants to make a new playground by cleaning up an abandoned lot that is shaped like a rectangle.	create
+They give the job of planning the playground to a group of students.	transfer_goods_negative
+The students decide to use 3/8 of the playground for a basketball court and 4/8 of the playground for a soccer field.	choose
+How much is left for the swings and play equipment?	existence
+Rachel is third in line.	state_fact
+Julie is 2 spots in front of her.	state_fact
+What place in line is julie?	addition
+Bryan has 50 skittles.	possess
+Ben has 20 m&m’s.	possess
+Who has more?	possess
+It takes 20 minutes to cook pizza.	transfer_goods_positive
+If jack wants to eat at 6:30 what time should he put it in the oven?	use_resource
+It takes 15 minutes for michael to get to edgewood.	transfer_goods_positive
+If michael arrives at 8:30, what time did michael leave to get there?	getting
+The train left for the station at 9:45 and arrived at 10:00.	existence
+How long did it take?	transfer_goods_positive
+14 birds were sitting in a tree.	state_fact
+21 more birds flew up to the tree.	addition
+How many birds were there altogether in the tree?	total
+29 birds were sitting in a tree.	state_fact
+Some more fly up to the tree.	addition
+Then there were 42 birds in the tree.	existence
+How many more flew up to the tree?	addition
+Beth has 74 crayons.	possess
+She gives 25 of them away to jen.	transfer_goods_negative
+How many crayons does beth have left?	possess
+Cindy’s mom baked 41 cookies.	state_fact
+Paul’s dad baked 38 cookies.	state_fact
+They both brought them to school for a party.	state_fact
+How many cookies did they have altogether?	possess
+18 children were riding on the bus.	state_fact
+At the bus stop, some more children got on the bus.	addition
+Then there were 25 children altogether on the bus.	total
+How many children got on the bus at the bus stop?	getting
+If you have 2 quarters, 5 dimes, and 4 nickels, how much money do you have?	possess
+The puppet show begins at 2:00 p.m.	state_fact
+It lasts 1 hour and 30 minutes.	state_fact
+What time does it end?	state_fact
+John’s birthday is january 20th.	state_fact
+His sister’s birthday comes 14 days later.	state_fact
+When is his sister’s birthday?	state_fact
+How many quarters equal $2.25?	state_fact
+Kate has 223 pennies.	possess
+John has 388 pennies.	possess
+How many more pennies does john have?	addition
+Randy has 78 blocks.	possess
+He uses 19 blocks to build a tower.	use_resource
+How many blocks are left?	existence
+Hailey’s bus is third in line.	state_fact
+Danny’s bus is 3 buses behind hers.	state_fact
+What place in line is danny’s bus?	addition
+Alex has 5 dimes, 4 nickels and one penny.	possess
+Does he have enough to buy a hat that costs 90 cents?	possess
+Gino has 15 brown bears, 24 white bears, and 27 black bears.	possess
+How many bears does gino have?	possess
+Rob has seven quarters, three dimes, five nickels, and twelve pennies.	possess
+How much money does rob have?	possess
+Morgan has 65 red pens, 45 blue pens, and 58 black pens.	possess
+How many pens does she have?	possess
+Adi bought a pencil for 35 cents.	transfer_money
+He paid with a one-dollar bill.	state_fact
+How much change will he get?	getting
+Mrs. hilt met with 120 fourth-graders.	state_fact
+If three-quarters of those students were girls, how many boys were at the meeting?	state_fact
+Mrs. hilt bought four strings of holiday garland that were 12 feet long.	transfer_money
+She needs 45 feet of garland to string on her post.	require
+Does she have enough garland?	possess
+If not, how much extra does she need?	require
+If so, how much extra does she have?	possess
+Mrs. hilt had a $20.00 bill.	possess
+If pens cost 10 cents each	state_fact
+How much is each payment?	duplication
+Mrs. hilt bought some foods to make a fruit salad.	transfer_money
+She spent $15.50 for a bag of apples, $30.00 for a box of oranges, $27.25 for a bag of tangerines and $8.00 on a bag of nuts.	transfer_money
+She paid the clerk with a $100.00.	state_fact
+How much change will mrs. hilt receive?	transfer_goods_positive
+Mrs. hilt bought 3 hotdogs, 2 servings of nachos, and 4 pizzas.	transfer_money
+Each of the items cost $1.50.	duplication
+How much did she pay for all the food?	transfer_money
+Mrs. hilt bought 4 pizzas with 8 slices each.	transfer_money
+She and her friends ate 21 slices of the pizza.	use_resource
+How many slices were left?	existence
+Mrs. hilt gave $0.50 to each fourth grader.	transfer_goods_negative
+If there are 69 fourth graders,	existence
+How much money did mrs. hilt give away?	transfer_goods_negative
+Mrs. hilt ate 1.5 personal pizzas every school day except thursday (she wanted to save room for ice cream!)	use_resource
+How many total pizzas did she eat that week?	use_resource
+Ashton has 2 boxes of pencils with 14 pencils in each box.	possess
+He gave 6 pencils to his brother.	transfer_goods_negative
+How many pencils are left with ashton?	existence
+There are 96 students in a class, out of which 43 are girls.	existence
+On friday, 2 girls and 3 boys were absent.	state_fact
+How many boys were present on friday?	state_fact
+Ellen went to a garage sale to buy chairs.	motion
+Each chair cost 15 dollars.	duplication
+How much money did ellen spend for the 12 chairs she bought?	transfer_money
+3-toed sloths have four legs.	possess
+How many toes would 25 sloths have?	possess
+Albert has two snakes.	possess
+The garden snake is 10 inches long.	state_fact
+The boa constrictor is 7 times longer than the garden snake.	duplication
+How long is the boa constrictor?	state_fact
+Albert’s cabbage patch has 12 rows of cabbage.	possess
+In each row, there are 15 heads of cabbage.	duplication
+How many heads of cabbage does albert have in all?	possess
+Marie can bike at a speed of 12 miles an hour.	state_fact
+How far can she bike in 31 hours?	state_fact
+Tammy drove 55 miles in one hour.	state_fact
+At that rate, how many hours are required to complete 110 miles?	require
+Jeff swims 20 laps every day.	motion
+How many laps will he swim in six weeks?	motion
+Mary beth could jump 42 times each minute.	motion
+How many times could she jump in two hours?	duplication
+Rob could run 7 miles in one hour.	state_fact
+At that rate, how far could rob run in one day?	state_fact
+It takes 4 apples to make 1 pie.	transfer_goods_positive
+How many apples does it take to make 504 pies?	transfer_goods_positive
+Haruto has tomato plants in his backyard.	possess
+This year total 127 tomatoes grew.	create
+Birda have eaten 19 tomatoes.	possess
+23 tomatoes were ruined by bugs.	state_fact
+He picked the rest.	choose
+How many tomatoes did haruto pick?	choose
+Summer day camp is about to begin.	state_fact
+Today 132 boys signed up and 219 childen signed up in total.	state_fact
+How many girls did sign up for the summer camp?	state_fact
+I want to buy pencils for 18 rupees.	transfer_money
+Each pencil costs 1 rupee.	duplication
+I have just 10-rupee notes and 1-rupee coins.	possess
+How many notes and coins should i give you?	transfer_goods_negative
+An airplane hangar is 300 feet long.	state_fact
+How many planes can fit into it, end to end, if each plane is 40 feet long?	duplication
+It takes 3 eggs to make a cake.	transfer_goods_positive
+How many cakes can you make with 37 eggs?	create
+105 people are going to a movie.	state_fact
+6 people can ride in each car.	motion
+How many cars are needed to get all 105 people to the movie?	require
+Ms. baker has 17 cupcakes.	possess
+She wants to share them equally among her 3 children so that no one gets more than anyone else.	use_resource
+If she gives each child as many cupcakes as possible, how many cupcakes will be left over for ms. baker to eat?	transfer_goods_negative
+89 cookies are being shared equally among 4 people.	state_fact
+How many does each person get?	duplication
+Sammy put his toys into boxes.	add_to_group
+He put 250 toys equally into five boxes.	add_to_group
+How many toys did each box have?	duplication
+My dog had some bones.	possess
+Then, he dug up 367 bones.	state_fact
+Now he has 860 bones.	possess
+How many bones did he start with?	possess
+Jazmin had 1,209 dolls and geraldine had 2,186 dolls.	possess
+If they put their dolls together, how many would they have?	add_to_group
+Joel was walking in the park and saw a flock of 5,362 birds flying.	state_fact
+How many total wings were in the flock?	state_fact
+Mariela was in the hospital and she got 403 get well cards from around the country.	getting
+When she got home she got 287 more cards from friends and family.	getting
+How many get well cards did mariela get?	getting
+Cody is 14 years old.	state_fact
+His grandmother is 6 times as old as he is.	duplication
+How old is cody’s grandmother?	state_fact
+Darnay bought some new clothes.	transfer_money
+He bought eighteen shirts that cost $8 each, nineteen pants that cost $9 each, and thirteen jackets that cost $10 each.	transfer_money
+How much did he spend in all?	transfer_money
+I counted all the pockets i had on my clothes today.	possess
+Altogether i had twenty-seven ockets.	total
+I had eight on my shirt and fourteen on my pants.	possess
+How many pockets were on my jacket?	state_fact
+Arcadia had 622 people before it became a stop on the railroad.	possess
+Now, there are 487 more people living there.	addition
+How many people live in arcadia now ?	contain
+To build a new store, bob's construction needs 48 ceiling tiles.	create
+The ceiling tiles come in packages of 8	state_fact
+How many packages should the construction company buy ?	transfer_money
+A large company is hosting a conference.	state_fact
+So far, a total of 829 people have signed up, including 102 from the united states.	possess
+How many people from other countries have signed up ?	possess
+Joel bought 2 bags of marbles.	transfer_money
+There were 47 marbles in each bag.	duplication
+How many marbles did joel buy ?	transfer_money
+Shannon runs her own baking company.	possess
+This morning, shannon's workers baked 507 pecan pies.	state_fact
+They also baked some more after lunch.	state_fact
+In total, they baked 592 pecan pies.	state_fact
+How many pecan pies did shannon's workers bake after lunch ?	state_fact
+Wendy works in the kitchen of a mexican restaurant.	state_fact
+Over the weekend, she washed 774 small plates and 53 large plates.	state_fact
+How many plates did she wash over the weekend ?	state_fact
+To fill an order, the factory dyed 802 yards of silk white and 83 yards pink.	state_fact
+How many yards of silk did it dye for that order ?	state_fact
+Since he was hired, a chef has served 583 adults and 29 children.	possess
+What is the total number of guests served ?	use_resource
+The dover public library used a grant to purchase 121 books.	use_resource
+Now the library has a total of 528 books.	possess
+How many books did the library have before the grant ?	possess
+The school party committee has $40 to buy ice cream.	possess
+Each carton of ice cream costs $4	duplication
+How many cartons can the committee buy ?	transfer_money
+A family and a couple live together in a duplex.	contain
+Last year, the family used 730 kilowatts of electricity and the couple used 24 kilowatts.	use_resource
+In total, how many kilowatts did they use last year ?	use_resource
+A restaurant has $50 to buy new plates.	possess
+The cost of each plate is $5	state_fact
+How many plates will the restaurant be able to buy ?	transfer_money
+At a local school, 8 students each wrote 13 letters to students in another country.	duplication
+How many letters were written in all ?	state_fact
+The fairview library has $90 to buy science magazines.	possess
+If each magazine costs $9, how many magazines will the library be able to buy ?	duplication
+Tyler's donut shop needs to pack 84 donuts in boxes.	require
+Each box holds 7 donutshow many boxes does the shop need ?	duplication
+How many boxes does the shop need ?	require
+A school needs to buy 12 pencils for its students.	require
+The pencils come in packages of 6	state_fact
+How many packages should the school buy ?	transfer_money
+A farmer needs to water a new potato field.	require
+To do so, he builds an irrigation system using 127 plastic pipes and 39 metal pipes.	state_fact
+How many pipes does he use ?	use_resource
+Jodie won an award because she wrote 723 popular songs.	state_fact
+However, she also wrote 235 songs that weren't popular.	state_fact
+How many songs did jodie write ?	state_fact
+Ben's car broke and he used $16 from his savings to have it repaired.	use_resource
+After that, he had $830 left in savings.	possess
+How much money did ben save before his car broke ?	state_fact
+She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes.	getting
+Every crayon box can contain 8 crayons.	duplication
+How many crayon boxes does she need ?	require
+A pile of clean white paper was stacked in the corner of her room.	add_to_group
+She decided to place these papers in paper envelopes which can contain 10 white papers.	addition
+How many paper envelopes does she need if she has 120 clean white papers ?	require
+Lexie’s younger brother helped pick up all the paper clips in lexie’s room.	choose
+He was able to collect 81 paper clips.	gather
+He wants to distribute the paper clips in 9 boxeshow many paper clips will each box contain ?	separate_entities
+How many paper clips will each box contain ?	duplication
+Andrew’s 4 friends decided to bring food as well.	state_fact
+Each of them brought 4 slices of pizza	duplication
+How many slices of pizza do they have in total ?	possess
+Lastly, andrew tried to compute his expenses for the game night.	state_fact
+He spent $9.00 for each game they played	transfer_money
+They played a total of 5 games	state_fact
+How much money did he spend that night ?	transfer_money
+To have a more stable treehouse, charlie’s father decided to tie the corner posts of the house to the tree itself.	possess
+He used 24 inches of rope for the first post, 20 inches on the second, 14 inches on the third and 12 inches on the fourth.	use_resource
+How many inches of rope were used ?	use_resource
+You have 24 cookies and want to share them equally with 6 people.	possess
+How many cookies would each person get?	duplication
+You are reading a book with 120 pages.	state_fact
+If you want to read the same number of pages each night, how many would you have to read each night to finish in 10 days?	duplication
+A cereal box holds 18 cups of cereal.	contain
+Each serving is 2 cups.	duplication
+How many servings are in the whole box?	total
+A box of books weighs 42 pounds.	state_fact
+Each book weighs 3 pounds.	duplication
+How many books are there in the box?	existence
+Sue’s mother made 75 cookies.	state_fact
+She put the cookies in bags, with 3 cookies in each bag.	add_to_group
+How many bags could she fill up?	state_fact
+Megan had 49 markers.	possess
+Robert gave her 39 more markers.	transfer_goods_negative
+How many markers does megan have altogether?	possess
+Each cd rack holds 8 cds.	duplication
+A shelf can hold four racks.	contain
+How many total cds can fit on the shelf?	state_fact
+Carla has some marbles.	possess
+She bought 134 marbles.	transfer_money
+Now she has 187 marbles.	possess
+How many did she start with?	possess
+Paco had 35 cookies.	possess
+He ate 6 of them.	use_resource
+How many cookies did paco have left?	possess
+Kelly has 50 nintendo games.	possess
+How many does she need to give away so that she will have 35 games left?	require
+Connie had some marbles.	possess
+She gave 73 to juan.	transfer_goods_negative
+Now she has 70 marbles left.	possess
+How many did she have to start with?	possess
+Mrs. hilt bought some foods to make a fruit salad.	transfer_money
+She spent $15.50 for a bag of apples, $30.00 for a box of oranges, $27.25 for a bag of tangerines and $8.00 on a bag of nuts.	transfer_money
+She paid the clerk with a $100.00.	state_fact
+How much change will mrs. hilt receive?	transfer_goods_positive
+Mrs. hilt bought 3 hotdogs, 2 servings of nachos, and 4 pizzas.	transfer_money
+Each of the items cost $1.50.	duplication
+How much did she pay for all the food?	transfer_money
+Mrs. hilt bought 4 pizzas with 8 slices each.	transfer_money
+She and her friends ate 21 slices of the pizza.	use_resource
+How many slices were left?	existence
+Mrs. hilt gave $0.50 to each fourth grader.	transfer_goods_negative
+If there are 69 fourth graders, how much money did mrs. hilt give away?	transfer_goods_negative
+Mrs. hilt ate 1 ½ personal pizzas every school day except thursday (she wanted to save room for ice cream!)	use_resource
+How many total pizzas did she eat that week?	use_resource
+Mrs. hilt bought 6 hot dogs.	transfer_money
+Each hot dog cost 50 cents.	duplication
+How much money did she pay for all of the hot dogs?	transfer_money
+Mrs. hilt reads 13 books on every day that starts with the letters t and s. how many books does she read in one week?	duplication
+Mrs. hilt has 50 cents.	possess
+A pencil costs 5 cents.	state_fact
+How many pencils can she buy with the money she has?	transfer_money
+Mrs. hilt saw 33 butterflies.	state_fact
+Some of the butterflies were red and others were orange.	state_fact
+If 20 of the butterflies were orange, how many of them were red?	state_fact
+Mrs. hilt bought a pencil for 17 cents.	transfer_money
+She used exactly 4 coins to buy the pencil.	use_resource
+What coins did she use?	use_resource
+Your class had a pizza party.	possess
+3/8 of one pizza was left over, and 4/8 of another pizza was left over.	existence
+You put them both into one box.	add_to_group
+How much pizza do you have altogether?	possess
+A cake recipe requires 3/5 cup of sugar for the frosting and 1/5 cup of sugar for the cake.	require
+How much sugar is that altogether?	total
+You walk 3/10 of a mile to your friend’s house, and then 5/10 of a mile to school.	motion
+How far did you walk altogether?	motion
+After a party, 5/8 of the cake is left over.	existence
+That night, big brother eats 2/8 of the cake.	use_resource
+How much is left over after that?	existence
+You have 7 5/8 feet of yarn to make a bracelet.	possess
+You only use 4 1/8 feet for the bracelet.	use_resource
+How much yarn is left over?	existence

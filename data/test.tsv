@@ -1,0 +1,169 @@
+text	label
+Lucy has an aquarium with 212 fish.	possess
+She wants to buy 68 more fish.	transfer_money
+How many fish would lucy have then?	possess
+Lucy has 212 fish.	possess
+How many more fish does she need to buy to have 280 fish?	addition
+Chris has been saving his allowance to buy a new pair of soccer cleats and a ball.	possess
+His grandmother gave him $25 for his birthday.	transfer_goods_negative
+His aunt and uncle gave him $20 and his parents gave him $75.	transfer_goods_negative
+Now he had $279.	possess
+How much money did he have before his birthday?	possess
+Rupert and ronald aced their math test.	state_fact
+So their mother bought for them a wonderful trampoline yesterday.	transfer_money
+Ronald jumped 157 times on the trampoline.	motion
+Rupert jumped 86 more times than ronald.	motion
+How many times did they jump altogether?	duplication
+Harry hound had a terrible earache yesterday.	possess
+When i peered into his ears yesterday, i found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear.	getting
+I cleaned out harry hound's ears.	state_fact
+How many fleas perished?	state_fact
+A pet supply store has 600 bags of dog food and 327 bags of cat food.	contain
+How many more bags of dog food are there than cat food?	addition
+David has 7 boxes of stuffed toy dogs.	possess
+Each box has four dogs in it.	duplication
+How many legs are there in all?	existence
+532 people are watching a movie in a theater.	state_fact
+The theater has 750 seats.	possess
+How many seats are empty in the theater?	state_fact
+Each bag contains 23 pounds of oranges.	duplication
+How many pounds of oranges are in 45 bags?	state_fact
+Bert runs 2 miles every day.	duplication
+How many miles will bert run in 3 weeks?	state_fact
+Tammy drove 55 miles in one hour.	state_fact
+At that rate, how far can she drive in 36 hours?	state_fact
+Jeff swims 20 laps every day.	motion
+How many laps will he swim in six weeks?	motion
+Mary beth could jump 42 times each minute.	motion
+How many times could she jump in two hours?	duplication
+Rob could run 7 miles in one hour.	state_fact
+At that rate, how far could rob run in one day?	state_fact
+It takes 4 apples to make 1 pie.	transfer_goods_positive
+How many apples does it take to make 504 pies?	transfer_goods_positive
+Johnny makes $4.75 per hour at his work.	state_fact
+If he works 6 hours, how much money will he earn?	state_fact
+Tina’s cat weighs 2.6 kilograms.	state_fact
+Her dog weighs 4 times as much as her cat.	duplication
+How much does her dog weigh in kilograms?	state_fact
+Baby isabel plays with blocks.	state_fact
+Each block is 3.7 inches tall.	duplication
+She has a collection of 41 blocks.	possess
+If she could stack all of the blocks up one on top of the other, how many inches tall would her tower of blocks be?	addition
+Carrie likes to buy t-shirts at the local clothing store.	transfer_money
+They cost $9.95 each.	state_fact
+One day, she bought 25 t-shirts.	transfer_money
+How much money did she spend?	transfer_money
+Jim rides the bus to and from school each day.	duplication
+A one-way trip is 8.12 kilometers.	state_fact
+How many kilometers does he travel in 3 days?	motion
+Katherine bought cosmetic items which cost $78.12 in total.	transfer_money
+She gave $100 to the shop keeper.	transfer_goods_negative
+How much does she receive as change?	transfer_goods_positive
+Kelly scored 56.73 points and karen scored 74.92 points on a university exam.	state_fact
+How many points less did kelly score than karen?	transfer_money
+A mixture is obtained by mixing two products a and b respectively.	getting
+Product a weighs 234.56 grams and the mixture weighs 988.76 grams.	state_fact
+How much does product b weigh?	state_fact
+David’s home is 12.53 miles away from the lake and 16.73 miles away from his school.	state_fact
+How far is david’s school from the lake?	state_fact
+Shana bought 8 chocolates and gave 2 chocolates to each of her friends.	transfer_money
+How many friends did she give chocolate to?	transfer_goods_negative
+Dora won two games and scored 4 points.	state_fact
+She scored the same number of points in each game.	duplication
+How many points did she score in each game?	getting
+A chipmunk eats 6 apples in 3 days.	use_resource
+How many apples does he eat in a day?	use_resource
+Kitty drinks 8 cups of milk in 4 days.	state_fact
+How many cups does she drink in a day?	state_fact
+Ellen went to a garage sale to buy chairs.	motion
+Each chair cost 15 dollars.	duplication
+How much money did ellen spend for the 12 chairs she bought?	transfer_money
+Three-toed sloths have four legs.	possess
+How many toes would 25 sloths have?	possess
+Albert has two snakes.	possess
+The garden snake is 10 inches long.	state_fact
+The boa constrictor is 7 times longer than the garden snake.	duplication
+How long is the boa constrictor?	state_fact
+Albert’s cabbage patch has 12 rows of cabbage.	possess
+In each row, there are 15 heads of cabbage.	duplication
+How many heads of cabbage does albert have in all?	possess
+Marie can bike at a speed of 12 miles an hour.	state_fact
+How far can she bike in 31 hours?	state_fact
+Mrs. sheridan has 11 cats.	possess
+How many more cats does mrs. sheridan need to have 43 cats?	addition
+Mrs. sheridan has 11 cats.	possess
+Mrs. garrett has 24 cats.	possess
+How many more cats does mrs. garrett have than mrs. sheridan?	addition
+Mrs. wong had 30 valentines.	possess
+She gave 8 valentines to her children.	transfer_goods_negative
+How many does she have left?	possess
+Mrs. franklin had 58 valentines.	possess
+Mrs. franklin gave some to her students.	transfer_goods_negative
+Now she has 16.	possess
+How many valentines did mrs. franklin give to her students?	transfer_goods_negative
+Mrs. snyder made 86 heart cookies.	state_fact
+She made 36 red cookies and the rest are pink.	state_fact
+How many pink cookies did she make?	create
+Mrs. santiago has 58 red roses.	possess
+Mrs. garrett has 24.	possess
+How many more red roses does mrs. santiago have than mrs. garrett?	addition
+A dime is 1/2 inch wide.	state_fact
+If you put 5 dimes end to end, how long would they be from beginning to end?	add_to_group
+You have 10 cookies	possess
+And want to give 1/2 of them to a friend.	transfer_goods_negative
+How many do you give to your friend?	transfer_goods_negative
+You have 8 donuts	possess
+And you want to give 1/4 of them to a friend.	transfer_goods_negative
+How many donuts would your friend get?	getting
+You have 6 donuts	possess
+And you want to give 2/3 of them to a friend and keep the rest for yourself.	transfer_goods_negative
+How many donuts would your friend get?	getting
+Five friends buy a package of 12 cookies and want to share them equally.	transfer_money
+Each friend will get 1/5 of the cookies.	duplication
+How much will each friend get?	duplication
+3/4 of a pan of brownies was sitting on the counter.	state_fact
+You decided to eat 1/3 of the brownies in the pan.	use_resource
+How much of the whole pan of brownies did you eat?	total
+You have 2/3 of a pumpkin pie left over from thanksgiving.	possess
+You want to give 1/2 of it to your sister.	transfer_goods_negative
+How much of the whole pumpkin pie will this be?	total
+Samson bought 3 bags which cost $12.30, $34.23 and $23.19 respectively.	transfer_money
+How much did he need to pay?	require
+Kayla spends 1.23 hours for english reading, 1.40 hours for math and 0.39 hours for science.	use_resource
+How many hours does she spend studying?	transfer_money
+Kevin measures a triangular plate whose sides are 12.4 inches, 9.45 inches and 10.35 inches respectively.	state_fact
+What is the perimeter of a triangular plate?	state_fact
+Catherine bought a tomato, a chicken and an onion.	transfer_money
+The respective weights of these items were 2.12 kg, 1.45 kg and 3.19 kg.	state_fact
+What is the total weight of the items bought?	transfer_money
+Cade had 87 marbles.	possess
+He gave 8 to dylan.	transfer_goods_negative
+How many does he have left?	possess
+Michael has some fish in his fish tank.	possess
+Ben gave him 18 more fish.	transfer_goods_negative
+Now he has 49.	possess
+How many fish did he have to begin with?	possess
+Alyssa had 129 cookies.	possess
+Aiyanna has 140.	possess
+How many more cookies does aiyanna have than alyssa?	addition
+Daniel had some noodles.	possess
+He gave 12 noodles to william.	transfer_goods_negative
+Now daniel only has 54 noodles.	possess
+How many noodles did daniel have to begin with?	possess
+Hayley had 25 meatballs on her plate.	possess
+Kirsten stole some of her meatballs.	state_fact
+Now she has 11 meatballs on her plate.	possess
+How many meatballs did kirsten steal?	state_fact
+Isabella’s hair is 18 inches long.	state_fact
+If she gets a haircut and now her hair is 9 inches long, how much of isabella’s hair got cut off?	getting
+Isabella’s hair is 18 inches long.	state_fact
+By the end of the year her hair is 24 inches long.	state_fact
+How much hair did she grow?	create
+Jovana had 5 pounds of shells in her bucket.	possess
+She added some shells and now has 28 pounds of shells.	add_to_group
+How many pounds did she add?	add_to_group
+Isha’s pencil is 31 inches long.	state_fact
+If she sharpens it, now her pencil is 14 inches long.	state_fact
+How much did she sharpen off of her pencil?	state_fact
+Isha’s pencil is 22 inches long.	state_fact
+If she sharpens two inches off on monday and two inches on tuesday, how long will her pencil be then?	state_fact
